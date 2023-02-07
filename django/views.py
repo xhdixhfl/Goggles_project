@@ -13,6 +13,7 @@ def home(request):
   
 # query 받기
 def transfer(request):
+    # post형식으로 text전달
     text = request.POST.get('query')
     trans_info = {
         'review': text
