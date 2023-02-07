@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h2>⭐리뷰 검색하기⭐</h2>
+🔎질문 내용 : {{query}}<br>
+유사한 리뷰 Top 5<br>
+  
+    {% for ans in answer %}
+    {% for a in ans %}
+    {{ a }}
+    {% endfor %}
+    {% endfor%}
+<!-- 모델 결과로 나온 리스트 반복 출력...-->
+
+</body>
+</html>
