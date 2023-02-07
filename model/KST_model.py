@@ -30,7 +30,7 @@ tot_embedding = md['tot_embedding']
 bas_corpus = md['bas_corpus']
 bas_embedding = md['bas_embedding']
 
-## 색조
+## 색조 
 col_corpus = md['col_corpus']
 col_embedding = md['col_embedding']
 
