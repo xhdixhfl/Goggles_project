@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>review_test</title>
+</head>
+<body>
+<h2>리뷰 정보</h2>
+<div class="container">
+<!--  info가진 views로 전달하려고 action담음  -->
+  <form action="{% url 'info' %}" method="POST">
+      {% csrf_token %}
+    <label for="query">검색할 문장을 입력하세요 : </label>
+    <input type="text" id="query" name="query">
+    <input type="submit" value="검색">
+  </form>
+</div>
+</body>
+</html>
