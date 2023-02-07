@@ -1,6 +1,6 @@
 from django.shortcuts import render, redirect
 from kobert.models import DBdata
-import kst_function as model
+import KST_model as model # model폴더에 있음
 
 # 상품 등록
 def home(request):
@@ -24,7 +24,7 @@ def transfer(request):
 def kst_model(request):    # 원소별로 리스트 저장한 함수 부른거
     if request.method == 'POST':
         query = str(request.POST.get('query'))
-        answer = model.kst(query)
+        answer = model.kst_model(query)
 
     info = {
             'query': query,
