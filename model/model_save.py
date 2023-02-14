@@ -19,6 +19,7 @@ model = SentenceTransformer(modules=[word_embedding_model, pooling_model])
 embedder = SentenceTransformer("jhgan/ko-sbert-sts")
 
 # data loading
+### data폴더의 MDdata.cs정설정
 df = pd.read_csv('real.csv') 
 
 
