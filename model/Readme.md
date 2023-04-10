@@ -17,20 +17,19 @@
 
 ![020](https://user-images.githubusercontent.com/114147352/230919125-224a402c-bff7-48d8-87c1-da25aed9d87a.jpg)
 ----
-<h3> 파일 설명</h3>
-<h4>
+<h2> 파일 설명</h2>
+<h3>
 1. <a href="https://github.com/xhdixhfl/Goggles_project/blob/main/model/another_ver.py">another_ver</a> 
-</h4>
+</h3>
 → 입력받은 리뷰쿼리가 konlpy를 통과하면서 토큰이 분리되고 토큰을 토대로 카테고리를 선택하여 카테고리에 맞는 DB속 상품데이터를 기반으로 해당 상품의 리뷰 중 검색 쿼리와 가장 유사한 리뷰를 추출해 주는 API <br>
   <img src="https://user-images.githubusercontent.com/114147352/230919135-14385767-ffb8-4058-bc1c-b5bbcb1b8ec3.jpg">
-<br>
-<h4>
+<h3>
 2. <a href="https://github.com/xhdixhfl/Goggles_project/blob/main/model/model_save.py">model_save</a>
-</h4>
+</h3>
 → 실행 초반에 모델을 불러오는데 시간이 소요됨 또한, 임베딩 층과 문장 코퍼스를 나누는데 시간 소요가 발생함(약 15분 가량) <br>
 → 시간 소요를 단축하고자 tar파일로 모델, 임베딩층, 코퍼스 등을 저장하는 코드
-<h4>
+<h3>
 3. <a href="https://github.com/xhdixhfl/Goggles_project/blob/main/model/KST_model.py">KST_model</a>
-</h4>
+</h3>
 → 최종 장고에 저장된 파일 형식<br>
 → 2에서 저장된 tar파일을 불러옴으로서 초기 로딩 시간을 단축시킴(약 10분 정도)
