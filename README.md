@@ -14,4 +14,11 @@
   - 점자 코드를 통해 상품정보를 음성(TTS)으로 제공
   - 텍스트 분류기반 유사 상품 추천 서비스
   - 이미지 OCR을 통한 제품 패키징 정보 추출 및 음성 서비스
-  - 즐겨찾는 상품 등록 및 조회 페이지 제공
+  - 즐겨찾는 상품 등록 및 조회 페이지 제공<br>
+> [전체 프로젝트 내용](https://github.com/Rudadak/FinalProject "루다닥")
+
+## 담당 역할
+1. DB구축 및 모델 훈련에 필요한 데이터 수집 [<웹 크롤링>](https://github.com/xhdixhfl/Goggles_project "crawling")
+
+2. 유사도 높은 리뷰 추출 서비스 API 구현 [<모델>](https://github.com/xhdixhfl/Goggles_project "model")
++ 어플리케이션 구현 [<장고>](https://github.com/xhdixhfl/Goggles_project "django")
