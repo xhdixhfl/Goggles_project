@@ -1,4 +1,4 @@
-# <style color=>Goggles project
+# Goggles project
 > 22년도 3차 차세대 빅데이터 기반 크리에이터 양성과정 훈련 최종프로젝트<br>
 > 기간 : 22.12.16. ~ 23.02.15.
 <br>
