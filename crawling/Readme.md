@@ -11,9 +11,12 @@
 </div>
 ※ 현재 업로드한 파일은 google colab환경에서 구현함
 
-<h3> 파일 설명</h3>
-1. <a href="https://github.com/xhdixhfl/Goggles_project/blob/main/crawling/product_infomation_data.ipynb">product_information_data</a> <br>
--> DB 구축과 리뷰 유사도 판정에 쓰일 데이터 수집<br>
+<h2> 파일 설명</h2>
+<h3>
+1. <a href="https://github.com/xhdixhfl/Goggles_project/blob/main/crawling/product_infomation_data.ipynb">product_information_data</a>
+</h3>
+→ DB 구축과 리뷰 유사도 판정에 쓰일 데이터 수집<br>
+<h3>
 2. <a href="https://github.com/xhdixhfl/Goggles_project/blob/main/crawling/review_information.ipynb">review_information</a>
-<br>
--> NLP모델 trainning을 위한 데이터 수집 (라벨링의 문제로 실제 트레이닝은 못함)
+</h3>
+→ NLP모델 trainning을 위한 데이터 수집 (라벨링의 문제로 실제 트레이닝은 못함)
