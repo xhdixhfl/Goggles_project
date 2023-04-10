@@ -18,7 +18,7 @@
 > [전체 프로젝트 내용](https://github.com/Rudadak/FinalProject "루다닥")
 
 ## 담당 역할
-1. DB구축 및 모델 훈련에 필요한 데이터 수집 [<웹 크롤링>](https://github.com/xhdixhfl/Goggles_project "crawling")
+1. DB구축 및 모델 훈련에 필요한 데이터 수집 [<웹 크롤링>](https://github.com/xhdixhfl/Goggles_project/tree/main/crawling "crawling")
 
 2. 유사도 높은 리뷰 추출 서비스 API 구현 [<모델>](https://github.com/xhdixhfl/Goggles_project "model")
 + 어플리케이션 구현 [<장고>](https://github.com/xhdixhfl/Goggles_project "django")
