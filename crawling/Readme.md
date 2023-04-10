@@ -12,7 +12,7 @@
 ※ 현재 업로드한 파일은 google colab환경에서 구현함
 
 <h3> 파일 설명</h3>
-1.  파일명 <br>
+1.  product_information_data <br>
 -> DB 구축과 리뷰 유사도 판정에 쓰일 데이터 수집<br>
-2. 파일명 <br>
+2. review_information <br>
 -> NLP모델 trainning을 위한 데이터 수집 <br>
