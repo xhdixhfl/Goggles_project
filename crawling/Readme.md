@@ -1,6 +1,18 @@
-# crawling
-- 올리브영 온라인 몰의 상품 정보와 리뷰 정보 크롤링
-- 주피터 랩으로 구현하다가 실행시간이 길어져서 colab에서 실행하게됨
-- 현재 업로드한 파일은 colab환경에서 구현함
-- 위는 db구축과 리뷰유사도 판정에 쓰일 데이터용
--아래는 nlp모델을 훈련시키기 위한 데이터수집
+# Web Crawling
+### 시행 배경
+> 실제 이용하고자하는 상품 데이터가 존재하지 않았음 <br>
+> 모델의 정확도를 높이기 위해 양질의 데이터가 필요함
+### 사용 도구 및 언어
+<div>
+<img src="http://img.shields.io/badge/Python-3776AB?style=round&logo=Python&logoColor=white" />
+<img src="http://img.shields.io/badge/Selenium-43B02A?style=round&logo=Selenium&logoColor=white" />
+<img src="http://img.shields.io/badge/Jupyter-F37626?style=round&logo=Jupyter&logoColor=white" />
+<img src="http://img.shields.io/badge/coLab-F9AB00?style=round&logo=googlecolab&logoColor=white" />
+</div>
+※ 현재 업로드한 파일은 google colab환경에서 구현함
+
+<h3> 파일 설명</h3>
+1.  파일명 <br>
+-> DB 구축과 리뷰 유사도 판정에 쓰일 데이터 수집<br>
+2. 파일명 <br>
+-> NLP모델 trainning을 위한 데이터 수집 <br>
