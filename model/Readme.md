@@ -10,7 +10,7 @@
 - 리뷰쿼리 검색을 통해 유사도 높은 리뷰들을 추출해줌
 
 ### 사용 언어 및 도구
-<img src="http://img.shields.io/badge/Python-3776AB?style=round&logo=Python&logoColor=white" /><img src="http://img.shields.io/badge/PyTorch-EE4C2C?style=round&logo=PyTorch&logoColor=white" /><img src="http://img.shields.io/badge/Jupyter-F37626?style=round&logo=Jupyter&logoColor=white" /><img src="http://img.shields.io/badge/GitHub-181717?style=round&logo=GitHub&logoColor=white" />
+<img src="http://img.shields.io/badge/Python-3776AB?style=round&logo=Python&logoColor=white" /> <img src="http://img.shields.io/badge/PyTorch-EE4C2C?style=round&logo=PyTorch&logoColor=white" /> <img src="http://img.shields.io/badge/Jupyter-F37626?style=round&logo=Jupyter&logoColor=white" /> <img src="http://img.shields.io/badge/GitHub-181717?style=round&logo=GitHub&logoColor=white" />
 
 ※ Ko-Sentence_bert와 KoNLPY를 베이스로 함
 ![019](https://user-images.githubusercontent.com/114147352/230918869-9cf820ef-72d6-46d5-9171-03debfffdfc6.jpg)
