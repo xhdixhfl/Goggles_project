@@ -4,10 +4,10 @@
 > 모델의 정확도를 높이기 위해 양질의 데이터가 필요함
 ### 사용 도구 및 언어
 <div>
-<img src="http://img.shields.io/badge/Python-3776AB?style=round&logo=Python&logoColor=white" />
-<img src="http://img.shields.io/badge/Selenium-43B02A?style=round&logo=Selenium&logoColor=white" />
 <img src="http://img.shields.io/badge/Jupyter-F37626?style=round&logo=Jupyter&logoColor=white" />
 <img src="http://img.shields.io/badge/coLab-F9AB00?style=round&logo=googlecolab&logoColor=white" />
+<img src="http://img.shields.io/badge/Python-3776AB?style=round&logo=Python&logoColor=white" />
+<img src="http://img.shields.io/badge/Selenium-43B02A?style=round&logo=Selenium&logoColor=white" />
 </div>
 ※ 현재 업로드한 파일은 google colab환경에서 구현함
 
